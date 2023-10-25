@@ -1,4 +1,4 @@
-package com.example.expass7;
+package com.example.expass7.exp2;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
